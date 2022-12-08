@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command Challenge5MovingDayTrevor</Text>
+    <Description>Some description for Challenge5MovingDayTrevor</Description>
+    <Assembly>Challenge5MovingDayTrevor.dll</Assembly>
+    <FullClassName>Challenge5MovingDayTrevor.Command</FullClassName>
+    <ClientId>c65f282b-0d20-44b3-ad71-5b95bbcf7c3e</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application Challenge5MovingDayTrevor</Name>
+    <Assembly>Challenge5MovingDayTrevor.dll</Assembly>
+    <FullClassName>Challenge5MovingDayTrevor.App</FullClassName>
+    <ClientId>61dde8a0-7ae6-4910-8da8-ef804bade39d</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
